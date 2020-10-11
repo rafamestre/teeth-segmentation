@@ -1,0 +1,14 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Global localization}{}% 2
+\BOOKMARK [1][-]{section.3}{Central teeth segmentation}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Preprocessing of the image}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Segmentation of the jaw}{section.3}% 5
+\BOOKMARK [1][-]{section.4}{Active shape model}{}% 6
+\BOOKMARK [1][-]{section.5}{Discussion}{}% 7
+\BOOKMARK [1][-]{section.6}{Conclusions and future work}{}% 8
+\BOOKMARK [1][-]{appendix.A}{Appendix: comparative tables}{}% 9
+\BOOKMARK [1][-]{appendix.B}{Suplementary files}{}% 10
+\BOOKMARK [1][-]{appendix.C}{Instructions to run the code}{}% 11
+\BOOKMARK [2][-]{subsection.C.1}{Global segmentation}{appendix.C}% 12
+\BOOKMARK [2][-]{subsection.C.2}{Segmentation of the incisors}{appendix.C}% 13
+\BOOKMARK [2][-]{subsection.C.3}{Supplementary files}{appendix.C}% 14
